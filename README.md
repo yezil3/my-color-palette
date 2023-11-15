@@ -8,7 +8,7 @@ https://color.adobe.com/create/color-accessibility
 
 > Vivid without veering into excessive colorfulness, thus maintaining the paper's sense of rigor and professionalism.
 
-### Red series:
+### Red series/warm
 
 **1. Pink-purple:**
 
@@ -23,6 +23,13 @@ https://color.adobe.com/create/color-accessibility
 **3. Blue-red:**
 
 <img width="900" alt="image" src="https://github.com/yezil3/my-color-palette/assets/106938096/1f2a0e62-8753-414c-a4b1-c03d3a8b29dd">
+
+### Blue series/cool
+
+**4. Purple-yellow:**
+
+<img width="900" alt="image" src="https://github.com/yezil3/my-color-palette/assets/106938096/e032c6a4-ecfd-491d-bace-bc1852c59dac">
+
 
 
 
