@@ -1,5 +1,5 @@
 # my-color-palette
-Personally selected color palette for academic papers.
+Personally selected/collected color palettes for academic papers.
 Generate your own colorblind-friendly palette:
 https://color.adobe.com/create/color-accessibility
 
